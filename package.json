@@ -74,12 +74,12 @@
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
-    "server": "npx json-server --watch public/db.json --port=https://sushi-online.herokuapp.com"
+    "server": "npx json-server --watch public/db.json --port=3001"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "https://sushi-online.herokuapp.com",
+  "proxy": "http://localhost:3001",
   "browserslist": {
     "production": [
       ">0.2%",
