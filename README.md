@@ -14,5 +14,8 @@ $ npm run server
 $ npm run start
 $ go to http://localhost:3000
 ```
-![cart](https://github.com/YKalashnikov/Sushi-Online-Store/blob/master/githubimages/cart.png)
+
 ![home](https://github.com/YKalashnikov/Sushi-Online-Store/blob/master/githubimages/home.png)
+
+![cart](https://github.com/YKalashnikov/Sushi-Online-Store/blob/master/githubimages/cart.png)
+
