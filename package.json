@@ -74,7 +74,7 @@
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
-    "server": "npx json-server --watch public/db.json --port=3001"
+    "server": "npx json-server --watch public/db.json --port=https://sushi-online.herokuapp.com"
   },
   "eslintConfig": {
     "extends": "react-app"
